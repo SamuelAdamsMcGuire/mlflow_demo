@@ -102,7 +102,7 @@ conda install
 Open the wine_quality.ipynb notebook in jupyter notebooks. Follow the instructions. The notebook takes you through the process of reading data for the chemical feaures of wine and thier respective quality. The quality is what we are trying to predict. You will train a LR model while you log and track the model with MLflow. 
 </p>
 <p>
-Then you will use the MLflow user interface to compare models, filter models, register models and then also call on models to make predictions. The train.py and train.ipynb are directly taken from the MLflow tutorial documentation and can be used to do work with the project as well.
+Then you will use the MLflow user interface to compare models, filter models, register models and then also call on models form the cloud to make predictions. 
 </p>
 
 

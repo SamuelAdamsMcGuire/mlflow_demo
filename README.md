@@ -79,18 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
-
-
-### Built With
-
-* []()
-* []()
-* []()
+Using the open source software MLflow to track and log machine learning models, their paramters, metrics and more!
 
 
 
@@ -101,10 +90,9 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Best would be to make a conda envrionment then install, sklearn, mlfow and jupyter notebook
 ```sh
-npm install npm@latest -g
+conda install -c conda-forge mlflow 
 ```
 
 ### Installation

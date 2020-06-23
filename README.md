@@ -99,29 +99,23 @@ conda install -c conda-forge mlflow
  
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/SamuelAdamsMcGuire/mlflow_demo.git
 ```
-2. Install NPM packages
+2. Install mentioned packages
 ```sh
-npm install
+conda install
 ```
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
-
+<p>
+Open the wine_quality.ipynb notebook in jupyter notebooks. Follow the instructions. The notebook takes you through the process of reading data for the chemical feaures of wine and thier respective quality. The quality is what we are trying to predict. You will train a LR model while you log and track the model with MLflow. 
+</p>
+<p>
+Then you will use the MLflow user interface to compare models, filter models, register models and then also call on models to make predictions.  
+</p>
 
 
 <!-- CONTRIBUTING -->

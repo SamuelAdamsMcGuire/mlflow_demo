@@ -1,7 +1,3 @@
-# mlflow_demo
-
-## Goal: to learn the basics of MLflow
-
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
 *** make this better, please fork the repo and create a pull request or simply open
@@ -28,8 +24,6 @@
 -->
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/samuel-mcguire/]
-
 
 
 <!-- PROJECT LOGO -->

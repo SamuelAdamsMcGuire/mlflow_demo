@@ -36,7 +36,7 @@
   <h3 align="center">Machine Learning Lifecycle and MLflow basics</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+   Tracking and logging you ML models, metrics and parameters.
     <br />
     <a href="https://github.com/SamuelAdamsMcGuire/mlflow_demo"><strong>Explore the docs »</strong></a>
     <br />

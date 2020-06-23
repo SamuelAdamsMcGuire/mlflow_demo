@@ -135,9 +135,9 @@ Project Link: [https://github.com/SamuelAdamsMcGuire/mlflow_demo](https://github
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Zoltal C. Toth CTO at Datapao](https://www.linkedin.com/in/zoltanctoth/)
+* [ Szilard Pafka Chied Data Scientist at EP0CH](https://www.linkedin.com/in/szilard/)
+* [MLflow](https://mlflow.org/)
 
 
 
